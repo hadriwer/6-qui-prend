@@ -1,0 +1,4 @@
+(library
+ (name game)
+ (modules Hand Card FactoryCard Printer Board MainGame Joueur)
+ (libraries unix))

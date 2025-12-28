@@ -1,4 +1,4 @@
 (executable
  (public_name SixQuiPrend)
  (name main)
- (libraries SixQuiPrend))
+ (libraries unix SixQuiPrend game))

@@ -1,0 +1,1 @@
+"Ce projet est une implémentation libre à but éducatif. Le jeu original est la propriété d'Amigo Spiele."
